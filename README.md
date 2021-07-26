@@ -3,3 +3,5 @@
 Nous utilisons le langage Node.js avec son framework Nest.js
 
 Lien vers la documentation: https://github.com/nestjs/nest 
+
+Lien pour la prise en main du framework: https://docs.nestjs.com/cli/overview 
