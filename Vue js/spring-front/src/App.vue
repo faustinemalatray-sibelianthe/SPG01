@@ -5,14 +5,14 @@
       <HomeLink />
       <NavLink url="/spring" text="Le programme Spring" />
       <NavLink url="/blog" text="Le blog" />
-      <NavLink url="/collecte" text="Organiser uen collecte" />
+      <NavLink url="/collecte" text="Organiser une collecte" />
     </nav>
   </div>
 </template>
 
 <script>
 import NavLink from "./components/NavLink.vue";
-import HomeLink from "./components/HelloWorld.vue";
+import HomeLink from "./components/HomeLink.vue";
 
 export default {
   name: "App",
@@ -25,11 +25,7 @@ export default {
 
 <style lang="scss">
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 0;
 }
 </style>

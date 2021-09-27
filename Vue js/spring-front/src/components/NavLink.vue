@@ -12,5 +12,9 @@ export default {
 <style>
 a {
   text-decoration: none;
+  color: #ffffff;
+  font-weight: 900;
+  font-size: 18px;
+  font-family: Raleway;
 }
 </style>
